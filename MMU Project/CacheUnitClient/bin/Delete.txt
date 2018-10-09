@@ -1,0 +1,13 @@
+{ "headers":
+	{"action":"DELETE"},
+      "body":
+	[{"dataModelId":120,"content":null},
+	{"dataModelId":42,"content":null},
+	{"dataModelId":777,"content":null},
+	{"dataModelId":55,"content":null},
+	{"dataModelId":2,"content":null},
+	{"dataModelId":15,"content":null},
+	{"dataModelId":42,"content":null},
+	{"dataModelId":51,"content":null},
+	{"dataModelId":100,"content":null}]
+}
